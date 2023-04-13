@@ -11,7 +11,7 @@ function Dashboard({logoutx}) {
   return (
     <div>
         Dashboard
-        <button onClick={logout}>Logout</button>
+        <button onClick={logout}>Logout Started!</button>
         </div>
   )
 }
